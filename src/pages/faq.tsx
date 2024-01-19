@@ -11,7 +11,7 @@ export default function FAQ() {
       </div>
       <div className="flex flex-col gap-4 text-left w-full p-4 text-lg">
         <div className="w-full">
-          <h3 className="text-2xl font-bold">When is the wedding?</h3>
+          <h3 className="text-2xl font-bold">When is the wedding??</h3>
           <p>April 20, 2024, at 5PM.</p>
         </div>
         <div className="w-full">
