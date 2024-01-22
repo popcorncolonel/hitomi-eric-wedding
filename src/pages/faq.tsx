@@ -11,7 +11,7 @@ export default function FAQ() {
       </div>
       <div className="flex flex-col gap-4 text-left w-full p-4 text-lg">
         <div className="w-full">
-          <h3 className="text-2xl font-bold">When is the wedding??</h3>
+          <h3 className="text-2xl font-bold">When is the wedding?</h3>
           <p>April 20, 2024, at 5PM.</p>
         </div>
         <div className="w-full">
@@ -23,7 +23,7 @@ export default function FAQ() {
         <div className="w-full">
           <h3 className="text-2xl font-bold">Do you have a hotel block?</h3>
           <p>
-            We have 20 blocked at the resort.
+            We have 20 rooms blocked at the resort.
             <br />
             Book by March 2, 2024 using{" "}
             <a
@@ -44,6 +44,9 @@ export default function FAQ() {
           <p>
             We will arringe daily shuttles from each of these airports to the Homestead so not everyone has to rent a car or arrange their own shuttle.
           </p>
+          <p>
+            Please fill out THIS GOOGLE FORM (TODO) so we can coordinate the shuttles, and make sure everyone gets to the Homestead. 
+          </p>
         </div>
         <div className="w-full">
           <h3 className="text-2xl font-bold">Will you have a registry?</h3>
@@ -52,7 +55,7 @@ export default function FAQ() {
         <div className="w-full">
           <h3 className="text-2xl font-bold">Are kids allowed?</h3>
           <p>
-            Of course! We welcome your family.
+            Of course! We welcome you and your family to celebrate with us.
           </p>
         </div>
         <div className="w-full">
