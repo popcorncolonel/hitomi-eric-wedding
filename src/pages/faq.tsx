@@ -76,7 +76,7 @@ export default function FAQ() {
             </a>,
             but some of our recommendations:
           </p>
-          <ul style="list-style-type:disc;">
+          <ul style="list-style-position: inside; list-style-type: disc">
             <li>
               <a
                 href="https://www.omnihotels.com/hotels/homestead-virginia/things-to-do/resort-activities/shooting-club"
