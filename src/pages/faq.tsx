@@ -96,7 +96,7 @@ export default function FAQ() {
               </a> are a unique natural artifact of the Homestead. (That's why the town is called Hot Springs, Virginia). Bathing suit required!
             </li>
             <li>
-              You can also relax in 
+              You can also relax in{" "}
               <a
                 href="https://www.omnihotels.com/hotels/homestead-virginia/spa"
                 target="_blank"
