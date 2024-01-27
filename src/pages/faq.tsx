@@ -126,6 +126,13 @@ export default function FAQ() {
           </ul>
         </div>
       </div>
+      <div>
+        If you have any other questions, please contact our wedding planner Rachel at:{" "}
+        <a href="mailto:rachel@withyoueventsplanning.com">
+          rachel@withyoueventsplanning.com
+        </a>
+        .
+      </div>
     </main>
   );
 }
