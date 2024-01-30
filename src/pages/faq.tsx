@@ -54,14 +54,20 @@ export default function FAQ() {
           </p>
         </div>
         <div className="w-full">
-          <h3 className="text-2xl font-bold">Will you have a registry?</h3>
-          <p>Nope! You coming to the Homestead to celebrate with us in person is more than enough. No gifts or money, please.</p>
-        </div>
-        <div className="w-full">
           <h3 className="text-2xl font-bold">Are kids allowed?</h3>
           <p>
             Of course! We welcome you and your family to celebrate with us.
           </p>
+        </div>
+        <div className="w-full">
+          <h3 className="text-2xl font-bold">What's the dress code?</h3>
+          <p>
+            Cocktail attire.
+          </p>
+        </div>
+        <div className="w-full">
+          <h3 className="text-2xl font-bold">Will you have a registry?</h3>
+          <p>Nope! You coming to the Homestead to celebrate with us in person is more than enough. No gifts or money, please.</p>
         </div>
         <div className="w-full">
           <h3 className="text-2xl font-bold">What activities are there?</h3>
